@@ -1,0 +1,6 @@
+fastapi==0.114.2
+uvicorn==0.30.6
+nltk==3.9.1
+SpeechRecognition==3.10.4
+python-multipart==0.0.9
+tqdm==4.66.5
